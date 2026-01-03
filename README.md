@@ -6,4 +6,4 @@ Created while learning Python basics.
 You play as **X** and the computer plays as **O**.  
 The computer makes random moves.
 
-The winner a point.
+The winner takes a point.
